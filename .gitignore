@@ -1,0 +1,25 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+inpebr/node_modules
+inpebr/.pnp
+inpebr/.pnp.js
+
+# testing
+inpebr/coverage
+
+# production
+inpebr/build
+
+# misc
+inpebr/.DS_Store
+inpebr/.env.local
+inpebr/.env.development.local
+inpebr/.env.test.local
+inpebr/.env.production.local
+
+inpebr/npm-debug.log*
+inpebr/yarn-debug.log*
+inpebr/yarn-error.log*
+
+imagens-free-code-camp
